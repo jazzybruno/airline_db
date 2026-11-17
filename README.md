@@ -36,4 +36,4 @@ No absent members.
 
 ## Proof
 
-Screenshots of the Meet, Live Share, query outputs and commit history are in `screenshots/`.
+Screenshots of the Meet, query outputs and commit history are in `screenshots/`.
