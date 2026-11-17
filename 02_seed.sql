@@ -5,6 +5,8 @@
 -- Business gets a lounge pass only. Suite and chauffeur stay NULL.
 -- First gets all three: lounge pass, suite and chauffeur.
 
+USE airline_db;
+
 INSERT INTO passengers (name, class_tier, seat_preference, lounge_pass, suite, chauffeur)
 VALUES
     ('Aline Uwase', 'Economy', 'Window', NULL, NULL, NULL),
